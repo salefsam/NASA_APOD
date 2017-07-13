@@ -1,0 +1,12 @@
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\bin\Debug\NASA Astronomy Picture Of The Day.exe.config
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\bin\Debug\NASA Astronomy Picture Of The Day.exe
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\bin\Debug\NASA Astronomy Picture Of The Day.pdb
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\obj\Debug\NASA Astronomy Picture Of The Day.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\obj\Debug\NASA_Astronomy_Picture_Of_The_Day.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\obj\Debug\NASA Astronomy Picture Of The Day.csproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\obj\Debug\NASA Astronomy Picture Of The Day.exe
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\obj\Debug\NASA Astronomy Picture Of The Day.pdb
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\bin\Debug\Newtonsoft.Json.dll
+c:\users\sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\obj\Debug\NASA_Astronomy_Picture_Of_The_Day.NASAAPOD.resources
+C:\Users\Sam\documents\visual studio 2013\Projects\NASA Astronomy Picture Of The Day\NASA Astronomy Picture Of The Day\obj\Debug\NASA_Astronomy_Picture_Of_The_Day.DatePicker.resources
